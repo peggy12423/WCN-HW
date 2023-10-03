@@ -4,6 +4,7 @@ from scipy.stats import poisson
 import matplotlib.pyplot as plt
 
 channel = []
+int ch = 1
 
 def first():
     
