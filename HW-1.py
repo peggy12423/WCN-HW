@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 channel = []
 
+
 def first():
     
     device_1 = []
